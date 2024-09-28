@@ -32,4 +32,3 @@ Sou graduando em Análise e Desenvolvimento de Sistemas e formado em desenvolvim
 # 📫 &nbsp;Minhas Redes
 
 <a href="https://linkedin.com/in/paulovenoy"><img src="https://img.shields.io/badge/-Paulo%20Venoy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:carlosaaraujopc@gmail.com"><img src="https://img.shields.io/badge/-carlosaaraujopc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
