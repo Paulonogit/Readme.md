@@ -23,9 +23,9 @@ Sou graduando em Análise e Desenvolvimento de Sistemas e formado em desenvolvim
 # ⚙️ &nbsp;Meu Github
 
 <p align="center">
-<a href="https://github.com/carlosaaraujo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosaaraujo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosaaraujo&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/paulovenoy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulovenoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulovenoy&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
